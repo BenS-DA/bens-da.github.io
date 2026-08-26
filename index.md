@@ -4,9 +4,16 @@
 
 ### Learn About My Projects
 
+#### [Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+In this case study we analyzed the State of Massachusetts high school education data. 
+-What correlates with high school graduation? 
+-How about college attendance?
+
+
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+Text
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
@@ -20,12 +27,12 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+In this case study we analyzed the State of Massachusetts high school education data. 
+-What correlates with high school graduation? 
+-How about college attendance?
+
 
 ---
 
