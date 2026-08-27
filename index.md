@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [iFood's Silent Customer Churn: Who's About To Walk Away](https://www.linkedin.com/pulse/ifoods-silent-customer-churn-whos-walk-away-ben-shim-nmkoe)
-<img src="Project_1_Images/Header.png?raw=true"/>
+<img src="images/Header.png?raw=true"/>
 iFood is Brazil's DoorDash. 
 <br>
 -What does RFM segmentation say about the state of iFood's customers, and what do we recommend so that the Company can win back customers?
@@ -13,7 +13,7 @@ iFood is Brazil's DoorDash.
 ---
 
 #### [High School](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
-[<img src="Project_2_Images/HS.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
+[<img src="images/HS.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
 The Massachusetts Department of Elementary and Secondary Education tracks a wealth of school and student data. 
 <br>
 -What are the four key takeaways that can determine graduation success and beyond?
