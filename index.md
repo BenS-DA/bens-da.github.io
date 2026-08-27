@@ -21,10 +21,10 @@
 ---
 
 #### [World Bank IDA: Loan Portfolio Snapshot at 6/30/26](https://www.linkedin.com/pulse/world-bank-ida-loan-book-at-a-glance-mysql-ben-shim-2ugtc/)
-[<img src="worldbank.jpeg?raw=true"/>](https://www.linkedin.com/pulse/world-bank-ida-loan-book-at-a-glance-mysql-ben-shim-2ugtc/)
+[<img src="images/worldbank.jpeg?raw=true"/>](https://www.linkedin.com/pulse/world-bank-ida-loan-book-at-a-glance-mysql-ben-shim-2ugtc/)
 **The World Bank publishes its loan book every month.**
 <br>
-*Here, we mine operating data with SQL, well before quarterly financial reports are published.*
+*Here, we mine monthly operating data with SQL, well before quarterly financial reports are published.*
 
 ---
 
