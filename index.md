@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [iFood's Silent Customer Churn: Who's About To Walk Away](https://www.linkedin.com/pulse/ifoods-silent-customer-churn-whos-walk-away-ben-shim-nmkoe)
-<img src="images/Header.png?raw=true"/>
+[<img src="images/Header.png?raw=true"/>](https://www.linkedin.com/pulse/ifoods-silent-customer-churn-whos-walk-away-ben-shim-nmkoe)
 iFood is Brazil's DoorDash. 
 <br>
 -What does RFM segmentation say about the state of iFood's customers, and what do we recommend so that the Company can win back customers?
