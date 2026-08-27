@@ -1,8 +1,8 @@
 title: Ben Shim # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Love me some data! 
-  Have tools, will happily wrangle.
+  Love me some data! <br>
+  Have tools, will happily wrangle. <br>
   <a href="www.linkedin.com/in/benedict-shim">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
