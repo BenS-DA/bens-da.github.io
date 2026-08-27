@@ -9,6 +9,7 @@
 **iFood is Brazil's DoorDash.**
 <br>
 *What does RFM segmentation say about the state of iFood's customers, and what does the Company need to do to win back customers?*
+<br>
 *Using Excel to provide actionable insights.*
 
 ---
@@ -18,6 +19,7 @@
 **The Massachusetts Department of Elementary and Secondary Education tracks a wealth of school and student data.**
 <br>
 *What are the four key takeaways that can determine graduation success and beyond?*
+<br>
 *Data visualization with Tableau.*
 
 ---
