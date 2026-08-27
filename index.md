@@ -12,7 +12,7 @@ iFood is Brazil's DoorDash.
 
 ---
 
-#### [High School](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
+#### [Aiming For High School Graduation & College](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
 [<img src="images/HS.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7492459167807590400/)
 The Massachusetts Department of Elementary and Secondary Education tracks a wealth of school and student data. 
 <br>
