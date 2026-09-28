@@ -33,7 +33,7 @@
 ---
 
 #### [Before the Model: Finding Diabetic Readmission Risk with MySQL and a Spreadsheet](https://www.linkedin.com/pulse/before-model-finding-diabetic-readmission-risk-mysql-spreadsheet-ben-gt8ic/)
-[<img src="linkedin_cover.png?raw=true"/>](https://www.linkedin.com/pulse/before-model-finding-diabetic-readmission-risk-mysql-spreadsheet-ben-gt8ic/)
+[<img src="images/strack.png?raw=true"/>](https://www.linkedin.com/pulse/before-model-finding-diabetic-readmission-risk-mysql-spreadsheet-ben-gt8ic/)
 **Digging into a real-world healthcare dataset.**
 <br>
 *Here, we tackle a hospital dataset with MySQL and a spreadsheet. With feature engineering, we uncover some interesting associations of patient attributes with hospital readmissions.*
